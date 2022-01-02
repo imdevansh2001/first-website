@@ -1,0 +1,47 @@
+.edit{
+    background-color: rgb(191, 255, 162);
+    color:black;
+    border-bottom:0.2rem solid red;
+}
+.foodies-size{
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nc{
+    color:black;
+    font-weight: bold;
+}
+.nc:hover{
+color:red;
+}
+.bi-gear{
+    color:black;
+    font-size: 2rem;
+    border:none;
+}
+
+.sizeone{
+    font-size: 1.5rem;
+}
+.specialedit{
+    background-color:rgb(235, 235, 235);
+}
+
+.fa-hamburger{
+    color:rgb(255, 211, 68);
+}
+
+
+.fa-pizza-slice{
+    color:rgba(216, 180, 62, 0.864);
+}
+
+
+.fa-ice-cream{
+    color:rgb(255, 152, 169);
+}
+.copy-right{
+    background-color: gainsboro;
+    font-size: 1.3rem;
+    color:black;
+}
